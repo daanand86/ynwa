@@ -1,8 +1,0 @@
-for i in `more 3par_list`
-do
-site=`echo $i|awk -F"." '{print $1}'`
-echo $site
->$site.'3par'
-ssh svvsstat@$i showhost -pathsum >> $site.'3par'
-done
-

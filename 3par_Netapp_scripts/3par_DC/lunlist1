@@ -1,4 +1,0 @@
-vserver         path                                     igroup         node                reporting-nodes
---------------- ---------------------------------------- -------------- ------------------- ---------------
-S216020DC3NAS01 /vol/S216020DC3SL01_L0/S216020DC3SL01_L0 S216020DC3SL01 USHRND3-101-NTAP-01 -
-S216020DC3NAS01 /vol/S216020DC3SL01_L1/S216020DC3SL01_L1 S216020DC3SL01 USHRND3-101-NTAP-01 -
